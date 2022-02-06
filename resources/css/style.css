@@ -1,0 +1,60 @@
+ body {
+
+   margin: 0 auto;
+  background-color: #FF9500;
+margin-left: auto;
+margin-right: auto;
+align-items: center;
+  }
+
+ #container {text-align: center;
+align-items: center;
+     width: 95%
+;
+     background-color: green;
+margin-left: auto;
+margin-right: auto;
+ }
+ 
+
+h1 {
+ 
+	font-size: 50px; 
+font-weight: normal;
+
+	font-family: Verdana;
+	color: white;}
+h2 {
+ 
+	font-size: 42px; 
+
+	font-family: Verdana;
+	color: white;}
+.links{font-size: 16px; 
+color:blue;
+text-align: center;
+
+}
+ span.regular{font-size: 21px; 
+
+	font-family: Verdana;
+	color: grey; 
+Padding: 5px;}
+span.right{font-size: 21px; 
+
+	font-family: Verdana;
+	color: grey; 
+text-align: right;
+
+}   
+img.center{
+    margin:0 auto;
+;
+display:block;
+}
+
+video.center{ margin:0 auto;
+;
+display:block;
+}
+  
